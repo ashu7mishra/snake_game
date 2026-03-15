@@ -1,0 +1,18 @@
+{
+    "screen":{
+        "width": 800,
+        "height": 600
+    },
+    "game":{
+        "block_size": 20,
+        "snake_block_size": 20,
+        "food_block_size": 20,
+        "fps": 10
+    },
+    "colors":{
+        "black": [0, 0, 0],
+        "white": [255, 255, 255],
+        "red": [255, 0, 0],
+        "green": [0, 255, 0]
+    }
+}
